@@ -1,6 +1,6 @@
 # [EN] Breakout
 
-This is a 2D game developed in Java 8 along the course “Design Methodologies and Programming”.
+This is a 2D game developed in Java 8 along the course “Methodologies of Designing and Programming”.
 The graphics are made with JavaFX, and the controller with the FXGL library.
 It follows the Model-View-Controller methodology.
 
